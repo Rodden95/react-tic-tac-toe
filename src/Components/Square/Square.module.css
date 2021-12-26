@@ -1,0 +1,17 @@
+.square {
+  border: none;
+  background-color: rgb(241, 198, 198);
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* flex-direction: row; */
+}
+.letter{
+  position: absolute;
+  font-size: large;
+
+}
